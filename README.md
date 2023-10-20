@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ngwasiri-Ryan
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning the backend aspect of websites
-- 💞️ I’m looking to collaborate on websites and sometime in the future apps
+- 👀 I’m interested in web development and app development
+- 🌱 I’m currently learning the fronend of websites and mobile apps
+- 💞️ I’m looking to collaborate on more projects in the future
 - 📫 How to reach me ryanngwasiri@gmail.com
 
 <!---
