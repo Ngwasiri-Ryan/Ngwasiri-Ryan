@@ -168,16 +168,6 @@
 - 📖 **Reading:** Motivation and personal development
 
 ---
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" alt="GitHub Stats" src="https://YOUR-PROJECT.vercel.app/api?username=Ngwasiri-Ryan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-<img height="180" alt="Top Languages" src="https://YOUR-PROJECT.vercel.app/api/top-langs/?username=Ngwasiri-Ryan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-</div>
----
-
 ## 📫 Let's Connect
 
 <div align="center">
