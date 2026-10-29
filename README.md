@@ -38,6 +38,7 @@ I'm a software engineer who builds full-stack platforms, dashboards, and mobile 
 
 ---
 
+
 ## 🧰 Skills
 
 <div align="center">
@@ -151,5 +152,11 @@ I'm open to freelance work, collaborations, and conversations about frontend eng
 <br/>
 
 ⭐ *Thanks for stopping by. If a project helped you, a star means a lot.* ⭐
+
+<br/>
+
+[![Instagram](https://img.shields.io/badge/Instagram-ngwasiriryan-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/ngwasiriryan)
+[![X](https://img.shields.io/badge/X-ngwasiriryan-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/ngwasiriryan)
+[![TikTok](https://img.shields.io/badge/TikTok-ngwasiriryan-000000?style=flat-square&logo=tiktok&logoColor=white)](https://tiktok.com/@ngwasiriryan)
 
 </div>
