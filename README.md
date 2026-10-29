@@ -145,7 +145,7 @@ I'm open to freelance work, collaborations, and conversations about frontend eng
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-ryan--portfolio--theta.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white)](https://ryan-portfolio-theta.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ryan--portfolio--theta.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white)](https://hello-hub-six.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ngwasiri--ryan-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ngwasiri-ryan)
 [![Email](https://img.shields.io/badge/Email-ngwasiriryan1%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ngwasiriryan1@gmail.com)
 
