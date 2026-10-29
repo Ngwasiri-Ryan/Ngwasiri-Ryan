@@ -1,7 +1,6 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=240&section=header&text=Ngwasiri%20Ryan%20Taniform%20Onga&fontSize=46&fontColor=ffffff&fontAlign=50&fontAlignY=36&desc=Software%20Engineer%20%C2%B7%20Frontend%20%26%20Full-Stack%20%C2%B7%20Educator&descAlign=50&descAlignY=58&animation=fadeIn" width="100%" alt="Header" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=240&section=header&text=Ngwasiri%20Ryan%20Taniform%20Onga&fontSize=46&fontColor=ffffff&fontAlign=50&fontAlignY=36&desc=Software%20Engineer%20%C2%B7%20Frontend%20and%20Full-Stack%20%C2%B7%20Educator&descAlign=50&descAlignY=58&animation=fadeIn" width="100%" alt="Header" />
+  
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2C5364&center=true&vCenter=true&width=760&lines=Building+full-stack+web+and+mobile+products;Crafting+clean+frontends+with+React+%26+Next.js;Designing+REST+APIs+that+developers+love;Teaching+100%2B+students+to+build+real+things" alt="Typing SVG" />
 </a>
